@@ -29,3 +29,7 @@
    background-repeat: no-repeat;
    background-size: cover;
   }
+  img {
+    width: 70%;
+    height: 50%;
+  }
